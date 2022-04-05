@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TriviaApp</string>
+    <string name="txt_trivia_app">Trivia App</string>
+    <string name="txt_question_num">Question 45/50</string>
+    <string name="bt_true">True</string>
+    <string name="bt_false_txt">False</string>
+    <string name="txt_next">Next</string>
+    <string name="correctAnswer" type="id">Correct</string>
+    <string name="incorrect" type="id">Incorrect</string>
+</resources>
